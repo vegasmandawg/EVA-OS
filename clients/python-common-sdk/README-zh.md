@@ -28,8 +28,8 @@
 
 1.  **克隆代码仓库:**
     ```bash
-    git clone <repository_url>
-    cd <project_directory>
+    git clone git@github.com:AutoArk/EVA-OS.git
+    cd EVA-OS
     ```
 
 2.  **创建并激活虚拟环境 (推荐):**
