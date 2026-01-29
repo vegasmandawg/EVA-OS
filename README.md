@@ -1,5 +1,12 @@
 <div align="center">
-  <a href="./README.md"><img height="28" src="https://img.shields.io/badge/🌐 English-1f6feb?style=flat-square"></a>&nbsp;<a href="./README-zh.md"><img height="28" src="https://img.shields.io/badge/🇨🇳 中文-1f6feb?style=flat-square"></a>
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🇺🇸_English-2980b9" alt="English">
+  </a>
+  &nbsp;
+  <a href="./README-zh.md">
+    <img src="https://img.shields.io/badge/🇨🇳_简体中文-d35400" alt="简体中文">
+  </a>
+
   <br>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20IoT-lightgrey?style=flat-square" alt="Platform">
@@ -22,7 +29,7 @@
 * **🚀 Experience Upgrade**: Enhanced speech recognition and speech synthesis capabilities, more accurate and faster.
 * **🗣️ New AI Agents**: Added several built-in Agents including interpreters and dialect companions.
 * **🛡️ Immersive Mode**: Built-in Agents support mode takeover, requiring an explicit exit command to quit.
-* **📍 Automatic Location Awareness**: Automatically reports location information when using Amap MCP.
+* **📍 Location Awareness**: Reports location information when using Amap MCP.(authorization required)
 
 **[2025-12-26] Release · EVA OS v1.0.1 Launched!**
 
